@@ -14,4 +14,5 @@ if ques1 == ans1:
     else:
         print("you lost")
 
-else ("oops thats not correct")
+else:
+    ("oops thats not correct")
